@@ -97,9 +97,5 @@ Performed the following preprocessing steps:
 
 ## 👨‍💻 Author
 **Farhan Haider**
-
-- GitHub: *(Add your GitHub profile link)*
-- LinkedIn: *(Add your LinkedIn profile link)*
-
 ---
 ⭐ If you found this project useful, consider giving it a Star!
